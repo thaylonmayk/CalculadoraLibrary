@@ -16,6 +16,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageId>CalculadoraLibery-exp-1</PackageId>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/thaylonmayk/CalculadoraLibrary</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
